@@ -1,1 +1,1 @@
-Java Server Page ve  Mysql ile yapılmıştır.
+Java Server Page ve  MSSQL(JDBC) ile yapılmıştır.
